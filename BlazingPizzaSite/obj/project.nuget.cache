@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgGF2pnq2QbFVHGLmOCOMMRirMSXg7WN//8k/1XVvug+CXSkN97Cm13V1/9BQqvm1cpb7rXlMPnUzm7IVL84GA==",
+  "success": true,
+  "projectFilePath": "/Users/tobiaskjaer/Repoes/BlazorTutorials/BlazingPizzaSite/BlazingPizzaSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/tobiaskjaer/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/tobiaskjaer/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/tobiaskjaer/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
